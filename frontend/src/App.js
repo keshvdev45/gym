@@ -946,7 +946,7 @@ function App() {
             >
               <CloseIcon />
             </button>
-            <h3 className="text-2xl font-bold text-white mb-6">Contact Us</h3>
+            <h3 className="text-2xl font-bold text-white mb-6">Let's Talk</h3>
             <div className="space-y-4">
               <div>
                 <label className="block text-gray-400 mb-2">Name</label>
