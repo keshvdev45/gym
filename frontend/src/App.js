@@ -959,10 +959,10 @@ function App() {
               <div>
                 <label className="block text-gray-400 mb-2">Subject</label>
                 <select className="w-full px-4 py-3 bg-gray-700 text-white rounded-lg border border-gray-600 focus:border-red-500 focus:outline-none">
-                  <option>General Inquiry</option>
-                  <option>Membership Question</option>
-                  <option>Technical Support</option>
-                  <option>Feedback</option>
+                  <option>Just want to say hi</option>
+                  <option>Questions about joining</option>
+                  <option>Need some help</option>
+                  <option>Want to share feedback</option>
                 </select>
               </div>
               <div>
