@@ -773,7 +773,7 @@ function App() {
                 KESHAV <span className="text-red-400">FITNESS</span>
               </h3>
               <p className="text-gray-400 mb-4">
-                Transform your body, transform your life. Join the fitness revolution today.
+                Transform your body, transform your life. Real results, real support, real community.
               </p>
               <div className="flex space-x-4">
                 <button 
