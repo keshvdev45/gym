@@ -541,20 +541,20 @@ function App() {
 
         <div className="text-center">
           <p className="text-gray-400 mb-6">
-            All memberships include access to our world-class facilities and expert guidance
+            All plans include access to my gym and personal support whenever you need it
           </p>
           <div className="flex justify-center items-center space-x-8 mb-8">
             <div className="flex items-center text-green-400">
               <svg className="w-6 h-6 mr-2" fill="currentColor" viewBox="0 0 20 20">
                 <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" />
               </svg>
-              Money Back Guarantee
+              Not happy? Get your money back
             </div>
             <div className="flex items-center text-green-400">
               <svg className="w-6 h-6 mr-2" fill="currentColor" viewBox="0 0 20 20">
                 <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" />
               </svg>
-              Cancel Anytime
+              Cancel anytime you want
             </div>
           </div>
         </div>
