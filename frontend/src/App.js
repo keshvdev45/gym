@@ -402,14 +402,14 @@ function App() {
       <section className="py-20 px-4 bg-black/70">
         <div className="max-w-7xl mx-auto">
           <h2 className="text-5xl font-black text-center text-white mb-16">
-            Why Choose <span className="text-red-400">Us</span>
+            Why People <span className="text-red-400">Choose Me</span>
           </h2>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
             {[
-              { icon: '🚀', title: 'Free Shipping', desc: 'On orders over $50' },
-              { icon: '💯', title: 'Money Back', desc: '30-day guarantee' },
-              { icon: '🏆', title: 'Expert Support', desc: '24/7 assistance' },
-              { icon: '🔒', title: 'Secure Payment', desc: 'SSL protected' }
+              { icon: '🚀', title: 'Free Delivery', desc: 'Order above ₹2000' },
+              { icon: '💯', title: 'Try It First', desc: 'Not happy? Money back' },
+              { icon: '🏆', title: 'Always Here', desc: 'Call me anytime' },
+              { icon: '🔒', title: 'Safe Payments', desc: 'Your money is secure' }
             ].map((benefit, index) => (
               <div key={index} className="text-center group">
                 <div className="text-6xl mb-4 group-hover:scale-110 transition-transform duration-300">{benefit.icon}</div>
