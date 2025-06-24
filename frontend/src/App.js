@@ -841,7 +841,7 @@ function App() {
               </div>
               <h3 className="text-2xl font-bold text-white mb-2">Follow @kehv_dev</h3>
               <p className="text-gray-400 mb-6">
-                Join our fitness community and get daily motivation, workout tips, and behind-the-scenes content!
+                Follow me for daily tips, motivation, and real fitness stories. Let's get stronger together!
               </p>
               <button 
                 onClick={handleFollow}
