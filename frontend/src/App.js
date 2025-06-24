@@ -475,7 +475,7 @@ function App() {
               className="flex-1 px-6 py-4 rounded-full bg-gray-800 text-white border border-gray-700 focus:border-red-500 focus:outline-none"
             />
             <button className="px-8 py-4 bg-gradient-to-r from-red-600 to-orange-600 text-white font-bold rounded-full hover:from-red-700 hover:to-orange-700 transform hover:scale-105 transition-all duration-300">
-              Subscribe
+              Send Me Tips
             </button>
           </div>
         </div>
