@@ -567,10 +567,10 @@ function App() {
       <div className="max-w-7xl mx-auto px-4">
         <div className="text-center mb-16">
           <h1 className="text-6xl font-black text-white mb-6">
-            Workout <span className="text-red-400">Library</span>
+            My <span className="text-red-400">Workout</span> Collection
           </h1>
           <p className="text-xl text-gray-400 max-w-3xl mx-auto">
-            Access hundreds of professional workouts designed by expert trainers
+            Hundreds of workouts I've created and tested. Find what fits your style and goals.
           </p>
         </div>
 
