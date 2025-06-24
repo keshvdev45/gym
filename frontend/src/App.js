@@ -296,7 +296,7 @@ function App() {
       <section className="py-20 px-4 bg-gray-900/50 backdrop-blur-sm">
         <div className="max-w-7xl mx-auto">
           <h2 className="text-5xl font-black text-center text-white mb-16">
-            Shop by <span className="text-red-400">Category</span>
+            What Do You Want to <span className="text-red-400">Train Today?</span>
           </h2>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
             {[
