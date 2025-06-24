@@ -300,10 +300,10 @@ function App() {
           </h2>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
             {[
-              { name: 'Equipment', image: 'https://images.unsplash.com/photo-1637666062717-1c6bcfa4a4df', desc: 'Professional grade equipment' },
-              { name: 'Supplements', image: 'https://images.pexels.com/photos/15120890/pexels-photo-15120890.jpeg', desc: 'Premium nutrition' },
-              { name: 'Apparel', image: 'https://images.unsplash.com/photo-1611251951013-a036c64d09c9', desc: 'Stylish workout wear' },
-              { name: 'Training', image: 'https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b', desc: 'Expert guidance' }
+              { name: 'Equipment', image: 'https://images.unsplash.com/photo-1637666062717-1c6bcfa4a4df', desc: 'Quality gear that lasts' },
+              { name: 'Supplements', image: 'https://images.pexels.com/photos/15120890/pexels-photo-15120890.jpeg', desc: 'Fuel your progress' },
+              { name: 'Apparel', image: 'https://images.unsplash.com/photo-1611251951013-a036c64d09c9', desc: 'Look good, feel great' },
+              { name: 'Training', image: 'https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b', desc: 'Personal guidance' }
             ].map((category, index) => (
               <div key={index} className="group relative overflow-hidden rounded-2xl bg-gradient-to-br from-gray-800 to-gray-900 hover:from-red-900/20 hover:to-orange-900/20 transition-all duration-500 transform hover:scale-105">
                 <div 
