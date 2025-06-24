@@ -818,7 +818,7 @@ function App() {
             </div>
           </div>
           <div className="border-t border-gray-800 pt-8 text-center text-gray-400">
-            <p>&copy; 2025 Keshav Fitness Arena. All rights reserved.</p>
+            <p>&copy; 2025 Keshav Fitness Arena. Made with ❤️ for people who want to get stronger.</p>
           </div>
         </div>
       </footer>
