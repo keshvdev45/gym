@@ -267,13 +267,13 @@ function App() {
         
         <div className="relative z-10 text-center text-white px-4 max-w-6xl mx-auto">
           <h1 className="text-6xl md:text-8xl font-black mb-6 leading-tight">
-            TRANSFORM YOUR
+            GET STRONG
             <span className="block text-transparent bg-clip-text bg-gradient-to-r from-red-400 to-orange-400">
-              FITNESS JOURNEY
+              GET CONFIDENT
             </span>
           </h1>
           <p className="text-xl md:text-2xl mb-8 font-light max-w-3xl mx-auto leading-relaxed">
-            Join Keshav Fitness Arena - Where champions are made and limits are broken
+            Hey! I'm Keshav, and I'll help you build the body you've always wanted. No BS, just real results.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
             <button 
