@@ -425,13 +425,13 @@ function App() {
       <section className="py-20 px-4 bg-gradient-to-r from-gray-900 to-black">
         <div className="max-w-7xl mx-auto">
           <h2 className="text-5xl font-black text-center text-white mb-16">
-            Join Our <span className="text-red-400">Community</span>
+            Join Our <span className="text-red-400">Fitness Family</span>
           </h2>
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
             <div>
-              <h3 className="text-3xl font-bold text-white mb-6">Follow us on Instagram</h3>
+              <h3 className="text-3xl font-bold text-white mb-6">Follow me on Instagram</h3>
               <p className="text-gray-400 text-lg mb-8">
-                Get daily fitness inspiration, workout tips, and connect with our amazing community of fitness enthusiasts.
+                I share daily workout tips, nutrition advice, and real stories from people who've transformed their lives. No fake stuff, just real results!
               </p>
               <button 
                 onClick={() => setShowInstagramModal(true)}
