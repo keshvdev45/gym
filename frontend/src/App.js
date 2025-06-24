@@ -972,7 +972,7 @@ function App() {
               <button 
                 onClick={() => {
                   setShowContactForm(false);
-                  showToastMessage('Message sent successfully! We\'ll get back to you soon. 📧');
+                  showToastMessage('Got your message! I\'ll get back to you real soon. 📧');
                 }}
                 className="w-full py-3 bg-gradient-to-r from-red-600 to-orange-600 text-white font-bold rounded-lg hover:from-red-700 hover:to-orange-700 transition-all duration-300"
               >
