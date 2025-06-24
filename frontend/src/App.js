@@ -790,18 +790,18 @@ function App() {
               <h4 className="text-lg font-bold text-white mb-4">Quick Links</h4>
               <ul className="space-y-2">
                 <li><button onClick={() => setCurrentPage('home')} className="text-gray-400 hover:text-red-400 transition-colors">Home</button></li>
-                <li><button onClick={() => setCurrentPage('membership')} className="text-gray-400 hover:text-red-400 transition-colors">Membership</button></li>
+                <li><button onClick={() => setCurrentPage('membership')} className="text-gray-400 hover:text-red-400 transition-colors">Join Us</button></li>
                 <li><button onClick={() => setCurrentPage('workouts')} className="text-gray-400 hover:text-red-400 transition-colors">Workouts</button></li>
-                <li><button onClick={() => setShowContactForm(true)} className="text-gray-400 hover:text-red-400 transition-colors">Contact</button></li>
+                <li><button onClick={() => setShowContactForm(true)} className="text-gray-400 hover:text-red-400 transition-colors">Get in Touch</button></li>
               </ul>
             </div>
             <div>
-              <h4 className="text-lg font-bold text-white mb-4">Services</h4>
+              <h4 className="text-lg font-bold text-white mb-4">What I Offer</h4>
               <ul className="space-y-2 text-gray-400">
-                <li>Personal Training</li>
-                <li>Group Classes</li>
-                <li>Nutrition Coaching</li>
-                <li>Online Programs</li>
+                <li>1-on-1 Personal Training</li>
+                <li>Fun Group Classes</li>
+                <li>Nutrition Guidance</li>
+                <li>Online Support</li>
               </ul>
             </div>
             <div>
