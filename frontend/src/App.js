@@ -463,10 +463,10 @@ function App() {
       <section className="py-20 px-4 bg-gradient-to-r from-red-900/20 to-orange-900/20">
         <div className="max-w-4xl mx-auto text-center">
           <h2 className="text-4xl font-black text-white mb-6">
-            Stay Updated with Latest <span className="text-red-400">Fitness Tips</span>
+            Get <span className="text-red-400">Free Tips</span> Weekly
           </h2>
           <p className="text-gray-400 text-lg mb-8">
-            Get exclusive workout routines, nutrition tips, and special offers delivered to your inbox.
+            I'll send you my best workout and nutrition tips every week. No spam, just stuff that actually works.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 max-w-md mx-auto">
             <input 
