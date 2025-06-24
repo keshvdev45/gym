@@ -805,7 +805,7 @@ function App() {
               </ul>
             </div>
             <div>
-              <h4 className="text-lg font-bold text-white mb-4">Contact Info</h4>
+              <h4 className="text-lg font-bold text-white mb-4">Come Visit Me</h4>
               <div className="text-gray-400 space-y-2">
                 <p>Keshav Fitness Arena</p>
                 <p>Lagma Main Road, Near DPS School</p>
@@ -813,6 +813,7 @@ function App() {
                 <p>📞 +91 9XXXXXXXXX</p>
                 <p>📧 contact@bhaiyajiikeshav.com</p>
                 <p>⏰ Mon-Sat: 5 AM - 10 PM</p>
+                <p>Sunday: Rest day (like you should!) 😊</p>
               </div>
             </div>
           </div>
