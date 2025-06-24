@@ -976,7 +976,7 @@ function App() {
                 }}
                 className="w-full py-3 bg-gradient-to-r from-red-600 to-orange-600 text-white font-bold rounded-lg hover:from-red-700 hover:to-orange-700 transition-all duration-300"
               >
-                Send Message
+                Send it Over
               </button>
             </div>
           </div>
