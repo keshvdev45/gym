@@ -370,9 +370,9 @@ function App() {
           </h2>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             {[
-              { name: 'Personal Training', price: '$75/session', image: 'https://images.unsplash.com/photo-1648542036561-e1d66a5ae2b1', desc: 'One-on-one coaching' },
-              { name: 'Group Classes', price: '$25/class', image: 'https://images.pexels.com/photos/31585478/pexels-photo-31585478.jpeg', desc: 'Train with community' },
-              { name: 'Online Programs', price: '$29/month', image: 'https://images.pexels.com/photos/1552242/pexels-photo-1552242.jpeg', desc: 'Workout anywhere' }
+              { name: 'Personal Training', price: '$75/session', image: 'https://images.unsplash.com/photo-1648542036561-e1d66a5ae2b1', desc: 'Just you and me, focused' },
+              { name: 'Group Classes', price: '$25/class', image: 'https://images.pexels.com/photos/31585478/pexels-photo-31585478.jpeg', desc: 'Fun with friends' },
+              { name: 'Online Programs', price: '$29/month', image: 'https://images.pexels.com/photos/1552242/pexels-photo-1552242.jpeg', desc: 'Train from anywhere' }
             ].map((program, index) => (
               <div key={index} className="group bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden hover:from-red-900/10 hover:to-orange-900/10 transition-all duration-500 transform hover:scale-105 shadow-2xl">
                 <div className="relative overflow-hidden">
