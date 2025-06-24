@@ -488,10 +488,10 @@ function App() {
       <div className="max-w-7xl mx-auto px-4">
         <div className="text-center mb-16">
           <h1 className="text-6xl font-black text-white mb-6">
-            Choose Your <span className="text-red-400">Membership</span>
+            Pick Your <span className="text-red-400">Plan</span>
           </h1>
           <p className="text-xl text-gray-400 max-w-3xl mx-auto">
-            Unlock your potential with our premium membership plans designed to transform your fitness journey
+            Choose what works for you. I've got options for everyone - from beginners to pros.
           </p>
         </div>
 
